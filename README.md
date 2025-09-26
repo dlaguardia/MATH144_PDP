@@ -1,3 +1,2 @@
 # MATH144_PDP
-Dataset Project for F25
-Daniel L.
+Daniel's Personal Dataset Project for Math-144. Everything = WIP.
