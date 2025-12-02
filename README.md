@@ -1,2 +1,2 @@
-# MATH144_PDP
+# MATH144_PDP_DL
 Daniel's Personal Dataset Project for MATH-144. Everything = WIP.
